@@ -7,10 +7,10 @@ const Cubes = number.map(cube);
 const studentUpper = students.map(uppercase);
 const studentLower = students.map(lowercase)
 
-console.log(squares);
-console.log(Cubes);
-console.log(studentUpper);
-console.log(studentLower);
+console.log( squares );
+console.log( Cubes );
+console.log( studentUpper );
+console.log( studentLower );
 
 
 function square(element) {
